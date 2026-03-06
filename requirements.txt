@@ -4,4 +4,6 @@ plotly
 streamlit
 scikit-learn
 seaborn
-
+streamlit
+pandas
+joblib
